@@ -77,31 +77,33 @@ Users can describe a job in a few spoken sentences, generate a structured estima
 
 ---
 
-### 🎼 LingxiScore
+### 🎼 ScoreCove
 
-**AI-assisted numbered musical notation and score editing**
+**A focused tool for creating numbered musical notation**
 
-LingxiScore is a music notation tool focused on numbered musical notation, score recognition, choir arrangements, and efficient music editing.
+ScoreCove is a practical music-notation tool designed for creating, editing, and preparing numbered musical scores.
 
 中文名称：**灵溪制谱**
 
-The project is designed to make it easier to convert photographed or scanned music into editable numbered notation, especially for choir, hymn, and multi-voice arrangements.
+The current version is available in Chinese. An international edition is coming soon.
 
 #### Main features
 
-- Image-to-score recognition
-- AI-assisted music transcription
-- Numbered musical notation editing
-- Multi-voice score support
-- Key signatures and accidentals
+- Create and edit numbered musical notation
+- AI-assisted score recognition and transcription
+- Convert photographed or scanned music into editable notation
+- Support for key signatures and accidentals
 - Rhythm and duration notation
+- Multi-voice score editing
 - Lyrics and score alignment
 - Choir and hymn arrangement workflows
 - Score preview and correction
 - Print-ready score generation
-- Export for sharing and rehearsal
+- Export for sharing, rehearsal, and printing
 
-> LingxiScore is a private project. Its source code is not publicly available.
+🌐 [Visit ScoreCove](https://zhipu.nnzt.com)
+
+> ScoreCove is proprietary software. Its source code is not publicly available.
 
 ---
 
@@ -206,7 +208,7 @@ A public project page does not necessarily mean that the corresponding commercia
 |---|---|---|
 | [ScanCove](https://scancove.app) | Receipt scanning and expense-report generation | Preparing for launch |
 | [QuoteCove](https://quotecove.app) | AI estimates and invoices for home-service professionals | In development |
-| LingxiScore | AI-assisted numbered music notation | In development |
+| [ScoreCove](https://zhipu.nnzt.com) | Numbered musical notation creation tool | Chinese version available · International edition coming soon |
 
 ---
 
@@ -215,6 +217,7 @@ A public project page does not necessarily mean that the corresponding commercia
 - GitHub: [@zhoudemin](https://github.com/zhoudemin)
 - ScanCove: [scancove.app](https://scancove.app)
 - QuoteCove: [quotecove.app](https://quotecove.app)
+- ScoreCove: [zhipu.nnzt.com](https://zhipu.nnzt.com)
 
 ---
 
